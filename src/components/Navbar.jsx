@@ -4,10 +4,10 @@ export function Navbar() {
   const [state, setState] = useState(false);
 
   const navigation = [
-    { title: "About", path: "javascript:void(0)" },
-    { title: "Experience", path: "javascript:void(0)" },
-    { title: "Skills", path: "javascript:void(0)" },
-    { title: "Portfolio", path: "javascript:void(0)" },
+    { title: "About", path: "#" },
+    { title: "Experience", path: "#" },
+    { title: "Skills", path: "#" },
+    { title: "Portfolio", path: "#" },
   ];
 
   return (
