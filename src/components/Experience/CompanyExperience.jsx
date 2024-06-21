@@ -6,21 +6,21 @@ const CompanyExperience = () => {
             avatar: "/Teo_logo.png",
             name: "TEO Intl.",
             title: "Trainee Software Developer",
-            exp: '6 months',
+            exp: 'Feb 2023 - July 2023',
             desc: "As a Trainee Software Developer, I spearheaded the development of a project from scratch using Next.js and Material UI, demonstrating my ability create user interfaces.",
         },
         {
             avatar: "/IREG-IT.jpeg",
             name: "Ireg-IT",
             title: "Frontend React Developer",
-            exp: '3 months',
+            exp: 'Sep 2023 - Oct 2023',
             desc: "I worked there as a frontend developer in IREG-IT where I spearheaded the development of a project from scratch using React.js and Material UI which is fully responsive.",
         },
         {
             avatar: "/InfinitiDev.jpg",
             name: "Infiniti Dev",
             title: "Software Developer",
-            exp: '7 months - current',
+            exp: 'Dec 2023 - current',
             desc: "I worked there as a Software Developer of Web and App where I work on the development of a project using React.js, React Native and Redux Toolkit which is fully responsive.",
         },
     ]
@@ -32,8 +32,7 @@ const CompanyExperience = () => {
                         Companies Experience
                     </h3>
                     <p className="text-white mt-3">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy.
-                    </p>
+                    Developed and delivered cutting-edge solutions with these Companies.</p>
                 </div>
                 <div className="mt-12">
                     <ul className="grid gap-8 sm:grid-cols-2 md:grid-cols-3">
