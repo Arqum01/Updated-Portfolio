@@ -6,18 +6,21 @@ const CompanyExperience = () => {
             avatar: "/Teo_logo.png",
             name: "TEO Intl.",
             title: "Trainee Software Developer",
+            exp: '6 months',
             desc: "As a Trainee Software Developer, I spearheaded the development of a project from scratch using Next.js and Material UI, demonstrating my ability create user interfaces.",
         },
         {
             avatar: "/IREG-IT.jpeg",
             name: "Ireg-IT",
             title: "Frontend React Developer",
+            exp: '3 months',
             desc: "I worked there as a frontend developer in IREG-IT where I spearheaded the development of a project from scratch using React.js and Material UI which is fully responsive.",
         },
         {
-            avatar: "https://randomuser.me/api/portraits/women/79.jpg",
+            avatar: "/InfinitiDev.jpg",
             name: "Infiniti Dev",
             title: "Software Developer",
+            exp: '7 months - current',
             desc: "I worked there as a Software Developer of Web and App where I work on the development of a project using React.js, React Native and Redux Toolkit which is fully responsive.",
         },
     ]
@@ -47,6 +50,7 @@ const CompanyExperience = () => {
                                     <div className="mt-2">
                                         <h4 className="text-white font-semibold sm:text-lg">{item.name}</h4>
                                         <p className="text-indigo-600">{item.title}</p>
+                                        <p className="text-white">Experience: {item.exp}</p>
                                         <p className="text-white mt-2">{item.desc}</p>
                                         {/* <div className="mt-4 flex justify-center gap-4 text-gray-400">
                                             <a href={item.twitter}>
