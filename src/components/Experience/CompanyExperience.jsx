@@ -14,7 +14,7 @@ const CompanyExperience = () => {
             name: "Ireg-IT",
             title: "Frontend React Developer",
             exp: 'Sep 2023 - Oct 2023',
-            desc: "I worked there as a frontend developer in IREG-IT where I spearheaded the development of a project from scratch using React.js and Material UI which is fully responsive.",
+            desc: "I worked there as a frontend developer in IREG-IT where I spearheaded the development of a project from scratch using React.js and Custom CSS which is fully responsive.",
         },
         {
             avatar: "/InfinitiDev.jpg",

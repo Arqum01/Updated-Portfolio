@@ -3,28 +3,22 @@ import React from 'react'
 const ClientsExperience = () => {
     const team = [
         {
-            avatar: "/Teo_logo.png",
+            avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
             name: "It-Experts",
             title: "Portfolio & Dashboard Frontend",
-            desc: "Lorem Ipsum is simply dummy text of the printing and typesettin industry.",
-            linkedin: "javascript:void(0)",
-            twitter: "javascript:void(0)",
+            desc: "As a Frontend Developer, I spearheaded the development of a project from scratch with 3 of my developer Friends using MERN Stack and also Redux toolkit for the handling of state globally, demonstrating my ability create user interfaces.",
         },
         {
             avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
-            name: "Micheal colorand",
-            title: "Software engineer",
-            desc: "Lorem Ipsum is simply dummy text of the printing and typesettin industry.",
-            linkedin: "javascript:void(0)",
-            twitter: "javascript:void(0)",
+            name: "Migual Sanchez",
+            title: "STACK Dashboard",
+            desc: "As a Frontend Developer, I spearheaded the development of a Dashboard project from scratch using React.js and Material UI and Rechart library for the charts, demonstrating my ability create user interfaces.",
         },
         {
             avatar: "https://randomuser.me/api/portraits/women/79.jpg",
-            name: "Brown Luis",
-            title: "Full stack engineer",
-            desc: "Lorem Ipsum is simply dummy text of the printing and typesettin industry.",
-            linkedin: "javascript:void(0)",
-            twitter: "javascript:void(0)",
+            name: "Ethan",
+            title: "Puzzle Bub Animated Website",
+            desc: "As a Frontend Developer, I spearheaded the development of a project from scratch using React.js and currently working on the Project, demonstrating my ability create user interfaces.",
         },
     ]
   return (
