@@ -4,6 +4,7 @@ import { Navbar } from './components/Navbar'
 import HeroSection from './components/HeroSection'
 import Footer from './components/Footer'
 import CompanyExperience from './components/Experience/CompanyExperience'
+import ClientsExperience from './components/Experience/ClientsExperience'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Navbar/>
       <HeroSection/>
       <CompanyExperience/>
+      <ClientsExperience/>
       <Footer/>
     </>
   )
