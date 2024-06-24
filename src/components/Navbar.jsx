@@ -5,7 +5,7 @@ export function Navbar() {
 
   const navigation = [
     { title: "About", path: "#" },
-    { title: "Experience", path: "#" },
+    { title: "Experience", path: "#Experience" },
     { title: "Skills", path: "#" },
     { title: "Portfolio", path: "#" },
   ];
