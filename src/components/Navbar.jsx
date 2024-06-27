@@ -72,6 +72,7 @@ export function Navbar() {
           </ul>
         </div>
         <div className="hidden md:inline-block">
+          <a href="#Footer">
           <button class="contactButton">
             Contact
             <div class="iconButton">
@@ -89,6 +90,7 @@ export function Navbar() {
               </svg>
             </div>
           </button>
+          </a>
         </div>
       </div>
     </nav>
