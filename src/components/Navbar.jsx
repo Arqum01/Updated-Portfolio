@@ -4,9 +4,8 @@ export function Navbar() {
   const [state, setState] = useState(false);
 
   const navigation = [
-    { title: "About", path: "#" },
     { title: "Experience", path: "#Experience" },
-    { title: "Skills", path: "#" },
+    { title: "Skills", path: "#Skills" },
     { title: "Portfolio", path: "#" },
   ];
 
