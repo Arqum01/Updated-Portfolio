@@ -3,19 +3,15 @@ import React from 'react'
 const Footer = () => {
     const footerNavs = [
         {
-            href: 'javascript:void()',
-            name: 'About'
-        },
-        {
-            href: 'javascript:void()',
+            href: '#Experience',
             name: 'Experience'
         },
         {
-            href: 'javascript:void()',
+            href: '#Skills',
             name: 'Skills'
         },
         {
-            href: 'javascript:void()',
+            href: '#Portfolio',
             name: 'Portfolio    '
         }
     ]

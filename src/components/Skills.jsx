@@ -6,6 +6,12 @@ const Skills = () => {
       name: "React Native",
     },
     {
+      name: "React-Native-CLI",
+    },
+    {
+      name: "React-Native-Expo",
+    },
+    {
       name: "React.js",
     },
     {
@@ -18,9 +24,6 @@ const Skills = () => {
       name: "Javascript",
     },
     {
-      name: "HTML",
-    },
-    {
       name: "CSS",
     },
     {
@@ -31,7 +34,10 @@ const Skills = () => {
     },
     {
       name: "Material UI",
-    }
+    },
+    {
+      name: "HTML",
+    },
   ];
   return (
     <section className="py-14" id="Skills">

@@ -15,7 +15,7 @@ const ClientsExperience = () => {
             desc: "As a Frontend Developer, I spearheaded the development of a Dashboard project from scratch using React.js and Material UI and Rechart library for the charts, demonstrating my ability create user interfaces.",
         },
         {
-            avatar: "https://randomuser.me/api/portraits/women/79.jpg",
+            avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
             name: "Ethan",
             title: "Puzzle Bub Animated Website",
             desc: "As a Frontend Developer, I spearheaded the development of a project from scratch using React.js and currently working on the Project, demonstrating my ability create user interfaces.",

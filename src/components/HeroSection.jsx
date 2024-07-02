@@ -3,7 +3,6 @@ import React from "react";
 function HeroSection() {
   return (
     <>
-      <div className="bg-gray-900">
         <section className="mt-48 mx-auto max-w-screen-xl pb-12 px-4 items-center lg:flex lg:gap-20 md:px-8">
           <div className="space-y-4 flex-1 sm:text-center lg:text-left">
             <h1 className="text-white font-bold text-4xl xl:text-5xl">
@@ -42,7 +41,6 @@ function HeroSection() {
             />
           </div>
         </section>
-      </div>
     </>
   );
 }
