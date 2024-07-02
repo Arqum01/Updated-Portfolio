@@ -6,14 +6,14 @@ export function Navbar() {
   const navigation = [
     { title: "Experience", path: "#Experience" },
     { title: "Skills", path: "#Skills" },
-    { title: "Portfolio", path: "#" },
+    { title: "Portfolio", path: "#Portfolio" },
   ];
 
   return (
     <nav className="bg-transparent w-full border-b md:border-0 md:static">
       <div className="items-center px-4 mx-auto md:flex md:px-8">
         <div className="flex items-center justify-between py-3 md:py-5 md:block">
-          <a href="javascript:void(0)">
+          <a href="/">
             <p className="font-bold italic text-2xl text-white">Arqum Ahmad</p>
           </a>
           <div className="md:hidden">
