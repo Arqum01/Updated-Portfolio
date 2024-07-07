@@ -12,27 +12,6 @@ function HeroSection() {
             <p className="text-gray-300 max-w-xl leading-relaxed sm:mx-auto lg:ml-0">
             I'm Arqum Ahmad, a Frontend React Developer skilled in creating dynamic and responsive web applications and Application Development. I specialize in using React to build seamless user interfaces with clean and efficient code.
             </p>
-            <div className="pt-2 items-center justify-center space-y-3 sm:space-x-6 sm:space-y-0 sm:flex lg:justify-start">
-              <a href="#Footer">
-              <button class="contactButton">
-                Contact
-                <div class="iconButton">
-                  <svg
-                    height="24"
-                    width="24"
-                    viewBox="0 0 24 24"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path d="M0 0h24v24H0z" fill="none"></path>
-                    <path
-                      d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z"
-                      fill="currentColor"
-                    ></path>
-                  </svg>
-                </div>
-              </button>
-              </a>
-            </div>
           </div>
           <div className="flex-1 text-center mt-7 lg:mt-0 lg:ml-3">
             <img
