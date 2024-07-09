@@ -40,7 +40,7 @@ const Portfolio = () => {
     {
         Image: "PDFAPI.png",
         name: "PDF API",
-        Link: "https://ireg-it-pdf-api.netlify.app/Posts",
+        Link: "https://ireg-it-pdf-api.netlify.app/",
       },
   ];
   return (
