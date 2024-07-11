@@ -38,9 +38,9 @@ const Footer = () => {
           <div className="mt-6">
             <p className="text-white font-semibold">Get in Contact</p>
             <div className="flex flex-col gap-3 mt-3">
-    <a href="mailto:arqumahmad019@gmail.com" class="font-bold italic text-xl text-white">Gmail: Arqum Ahmad</a>
-    <a href="https://www.linkedin.com/in/arqum-ahmad-bb5851248/" className="font-bold italic text-xl text-white">LinkedIn: Arqum Ahmad</a>
-    <a href="https://github.com/Arqum01" className="font-bold italic text-xl text-white">Github: Arqum</a>
+    <a href="mailto:arqumahmad019@gmail.com" class="font-bold italic text-xl text-white">Gmail: <span className="underline text-blue-300	">Arqum  Ahmad</span></a>
+    <a href="https://www.linkedin.com/in/arqum-ahmad-bb5851248/" className="font-bold italic text-xl text-white">LinkedIn: <span className="underline text-blue-300">Arqum  Ahmad</span></a>
+    <a href="https://github.com/Arqum01" className="font-bold italic text-xl text-white">Github: <span className="underline text-blue-300" >Arqum</span></a>
 </div>
 
           </div>
