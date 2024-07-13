@@ -5,7 +5,7 @@ const ClientsExperience = () => {
         {
             avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
             name: "It-Experts",
-            title: "Portfolio & Dashboard Frontend",
+            title: "It-Experts Portfolio & Dashboard Frontend",
             desc: "As a Frontend Developer, I spearheaded the development of a project from scratch with 3 of my developer Friends using MERN Stack and also Redux toolkit for the handling of state globally, demonstrating my ability create user interfaces.",
         },
         {
