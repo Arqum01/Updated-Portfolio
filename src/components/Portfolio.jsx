@@ -38,9 +38,10 @@ const Portfolio = () => {
       Link: "https://arqum-todo-app.netlify.app/",
     },
     {
-        Image: "PDFAPI.png",
-        name: "PDF API",
-        Link: "https://ireg-it-pdf-api.netlify.app/",
+        Image: "PuzzleBub.png",
+        name: "Puzzle Bub 3D",
+        Link: "https://puzzle-bub.netlify.app/"
+        // Link: "https://ireg-it-pdf-api.netlify.app/",
       },
   ];
   return (
@@ -62,13 +63,11 @@ const Portfolio = () => {
                 src={item.Image}
                 alt=""
               />
-              <h2 class="mt-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">
+              <h2 class="mt-4 mb-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">
                 {item.name}
               </h2>
               <a href={item.Link}>
-                <p class="mt-2 text-lg tracking-wider text-blue-500 uppercase dark:text-blue-400 ">
-                  Website
-                </p>
+                <button className="SkillsBtn">OVERVIEW</button>
               </a>
             </div>
           ))}
