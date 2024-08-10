@@ -41,7 +41,6 @@ const Portfolio = () => {
         Image: "PuzzleBub.png",
         name: "Puzzle Bub 3D",
         Link: "https://puzzle-bub.netlify.app/"
-        // Link: "https://ireg-it-pdf-api.netlify.app/",
       },
   ];
   return (
@@ -52,7 +51,7 @@ const Portfolio = () => {
         </h1>
 
         <p class="mt-4 text-center text-white">
-          Unleashing my expertise through a diverse skill set
+          Unleashing my expertise through a diverse skills set
         </p>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-2">
@@ -67,7 +66,7 @@ const Portfolio = () => {
                 {item.name}
               </h2>
               <a href={item.Link}>
-                <button className="SkillsBtn">OVERVIEW</button>
+                <button className="SkillsBtn">Website OVERVIEW</button>
               </a>
             </div>
           ))}
