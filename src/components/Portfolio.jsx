@@ -66,7 +66,7 @@ const Portfolio = () => {
                 {item.name}
               </h2>
               <a href={item.Link}>
-                <button className="SkillsBtn">Website OVERVIEW</button>
+                <button className="SkillsBtn">WEBSITE OVERVIEW</button>
               </a>
             </div>
           ))}
