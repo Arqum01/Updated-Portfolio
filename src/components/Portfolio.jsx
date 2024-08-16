@@ -51,7 +51,7 @@ const Portfolio = () => {
         </h1>
 
         <p class="mt-4 text-center text-white">
-          Unleashing my expertise through a diverse skill set
+          Unleashing my expertise through a diverse skill set of Web Development.
         </p>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-2">
