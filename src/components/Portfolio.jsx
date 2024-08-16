@@ -40,7 +40,7 @@ const Portfolio = () => {
     {
         Image: "PuzzleBub.png",
         name: "Puzzle Bub 3D",
-        Link: "https://puzzle-bub.netlify.app/"
+        Link: "https://puzzle-bub-client.netlify.app/"
       },
   ];
   return (
