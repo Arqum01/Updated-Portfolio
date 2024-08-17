@@ -7,6 +7,7 @@ import CompanyExperience from './components/Experience/CompanyExperience'
 import ClientsExperience from './components/Experience/ClientsExperience'
 import Skills from './components/Skills'
 import Portfolio from './components/Portfolio'
+import MobilePortfolio from './components/MobilePortfolio'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
       <ClientsExperience/>
       <Skills/>
       <Portfolio/>
+      <MobilePortfolio/>
       <Footer/>
     </>
   )
