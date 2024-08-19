@@ -62,7 +62,7 @@ const Portfolio = () => {
                 src={item.Image}
                 alt=""
               />
-              <h2 class="mt-4 mb-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">
+              <h2 class="mt-4 mb-4 text-xl font-semibold text-white capitalize">
                 {item.name}
               </h2>
               <a href={item.Link}>
