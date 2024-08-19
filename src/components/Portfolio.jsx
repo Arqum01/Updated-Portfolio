@@ -47,7 +47,7 @@ const Portfolio = () => {
     <section id="Portfolio">
       <div class="container px-6 py-10 mx-auto">
         <h1 class="text-2xl font-semibold text-center text-white capitalize lg:text-3xl dark:text-white">
-          Portfolio
+          Website Portfolio
         </h1>
 
         <p class="mt-4 text-center text-white">
