@@ -17,7 +17,7 @@ const ClientsExperience = () => {
         {
             avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
             name: "Ethan",
-            title: "Puzzle Bub Animated Website",
+            title: "Puzzle Bub 3D Website",
             desc: "As a Frontend Developer, I spearheaded the development of a project from scratch using React.js and currently working on the Project, demonstrating my ability create user interfaces.",
         },
     ]
