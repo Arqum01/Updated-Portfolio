@@ -4,7 +4,7 @@ const MobilePortfolio = () => {
     const Projects = [
         {
           Image: "/Tarteel.jpeg",
-          name: "Tarteel AI",
+          name: "Tarteel AI App",
         },
         {
           Image: "/MapTracking.jpeg",
@@ -12,7 +12,7 @@ const MobilePortfolio = () => {
         },
         {
           Image: "/RC.jpeg",
-          name: "Runners Connect",
+          name: "Runners Connect Fitness App",
         }
       ];
   return (
