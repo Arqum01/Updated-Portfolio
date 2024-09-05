@@ -2,7 +2,15 @@ body{
   margin: 0;
   padding: 0;
   background-color: #111;
+  overflow: hidden;
+  overflow-y: scroll;
 }
+
+body::-webkit-scrollbar {
+  scrollbar-width: none; 
+  display: none;
+}
+
 .contactButton {
   background: #fff;
   color: black;
