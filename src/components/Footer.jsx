@@ -46,7 +46,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-10 py-10 border-t md:text-center text-white">
-          <p>© 2022 Arqum Ahmad. All rights reserved.</p> <br />
+          <p>© 2024 Arqum Ahmad. All rights reserved.</p> <br />
           <p>Developed by Arqum Ahmad, Software Developer.</p>
         </div>
       </div>
