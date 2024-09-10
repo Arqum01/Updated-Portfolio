@@ -9,7 +9,7 @@ const Portfolio = () => {
     },
     {
       Image: "/TarteelWeb.png",
-      name: "Tarteel",
+      name: "Tarteel AI",
       Link: "https://www.tarteel.ai/",
     },
     {
