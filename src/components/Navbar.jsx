@@ -10,7 +10,7 @@ export function Navbar() {
   ];
 
   return (
-    <nav className="bg-[#111111] w-full border-b md:border-0 md:fixed">
+    <nav className="bg-[#111111] w-full border-b md:border-0 md:fixed z-50">
       <div className="items-center px-4 mx-auto md:flex md:px-8">
         <div className="flex items-center justify-between py-3 md:py-5 md:block">
           <a href="/">
