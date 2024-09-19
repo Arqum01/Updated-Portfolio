@@ -7,10 +7,20 @@ const Portfolio = () => {
       name: "Stack Dashboard",
       Link: "https://stackfiver.netlify.app/",
     },
+    // {
+    //   Image: "/TarteelWeb.png",
+    //   name: "Tarteel AI",
+    //   Link: "https://www.tarteel.ai/",
+    // },
     {
-      Image: "/TarteelWeb.png",
-      name: "Tarteel AI",
-      Link: "https://www.tarteel.ai/",
+      Image: "/ceolution.png",
+      name: "Ceolution",
+      Link: "https://www.ceolution.ai",
+    },
+    {
+      Image: "/Devtrox.png",
+      name: "Devtrox",
+      Link: "https://devtrox.com/",
     },
     {
       Image: "/AutopartifyWeb.png",
