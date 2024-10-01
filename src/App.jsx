@@ -19,7 +19,7 @@ function App() {
       <ClientsExperience/>
       <Skills/>
       <Portfolio/>
-      <MobilePortfolio/>
+      {/* <MobilePortfolio/> */}
       <Footer/>
     </>
   )
