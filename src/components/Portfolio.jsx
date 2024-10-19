@@ -1,4 +1,3 @@
-import React from "react";
 
 const Portfolio = () => {
   const Projects = [
@@ -7,11 +6,11 @@ const Portfolio = () => {
       name: "Stack Dashboard",
       Link: "https://stackfiver.netlify.app/",
     },
-    // {
-    //   Image: "/TarteelWeb.png",
-    //   name: "Tarteel AI",
-    //   Link: "https://www.tarteel.ai/",
-    // },
+    {
+      Image: "/TarteelWeb.png",
+      name: "Tarteel AI",
+      Link: "https://www.tarteel.ai/",
+    },
     {
       Image: "/ceolution.png",
       name: "Ceolution",
@@ -55,24 +54,24 @@ const Portfolio = () => {
   ];
   return (
     <section id="Portfolio">
-      <div class="container px-6 py-10 mx-auto">
-        <h1 class="text-2xl font-semibold text-center text-white capitalize lg:text-3xl dark:text-white">
+      <div className="container px-6 py-10 mx-auto">
+        <h1 className="text-2xl font-semibold text-center text-white capitalize lg:text-3xl dark:text-white">
           Website Portfolio
         </h1>
 
-        <p class="mt-4 text-center text-white">
+        <p className="mt-4 text-center text-white">
           Unleashing my expertise through a diverse skill set of Web Development.
         </p>
 
-        <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-2">
+        <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-2">
           {Projects.map((item, idx) => (
             <div key={idx}>
               <img
-                class="object-contain rounded-lg h-100"
+                className="object-contain rounded-lg h-100"
                 src={item.Image}
                 alt=""
               />
-              <h2 class="mt-4 mb-4 text-xl font-semibold text-white capitalize">
+              <h2 className="mt-4 mb-4 text-xl font-semibold text-white capitalize">
                 {item.name}
               </h2>
               <a href={item.Link}>
