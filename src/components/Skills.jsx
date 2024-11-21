@@ -1,18 +1,17 @@
-import React from "react";
 
 const Skills = () => {
   const testimonials = [
     {
-      name: "React Native",
-    },
-    {
-      name: "React-Native-CLI",
-    },
-    {
-      name: "React-Native-Expo",
+      name: "Next.js",
     },
     {
       name: "React.js",
+    },
+    {
+      name: "React Native",
+    },
+    {
+      name: "React-Native-Expo",
     },
     {
       name: "Redux Toolkit",

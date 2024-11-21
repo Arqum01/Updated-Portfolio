@@ -1,23 +1,22 @@
-import React from 'react'
 
 const ClientsExperience = () => {
     const team = [
         {
-            avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
+            avatar: "/avatar.jpg",
             name: "It-Experts",
             link: "https://officialitexperts.netlify.app/",
             title: "It-Experts Portfolio & Dashboard Frontend",
             desc: "As a Frontend Developer, I spearheaded the development of a project from scratch with 3 of my developer Friends using MERN Stack and also Redux toolkit for the handling of state globally, demonstrating my ability create user interfaces.",
         },
         {
-            avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
+            avatar: "/avatar.jpg",
             name: "Migual Sanchez",
             link: "https://stackfiver.netlify.app/",
             title: "STACK Dashboard",
             desc: "As a Frontend Developer, I spearheaded the development of a Dashboard project from scratch using React.js and Material UI and Rechart library for the charts, demonstrating my ability create user interfaces.",
         },
         {
-            avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
+            avatar: "/avatar.jpg",
             name: "Ethan",
             link: "https://puzzle-bub-client.netlify.app/",
             title: "Puzzle Bub 3D Website",

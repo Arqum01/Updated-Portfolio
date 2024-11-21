@@ -6,21 +6,22 @@ const CompanyExperience = () => {
             avatar: "/InfinitiDev.jpg",
             name: "Infiniti Dev",
             title: "Software Developer",
-            exp: 'Dec 2023 - Present',
-            desc: "I worked there as a Software Developer of Web and App where I work on the development of a project using React.js, React Native and Redux Toolkit which is fully responsive.",
+            exp: 'Jan 2023 - Present',
+            desc: "I worked there as a Software Developer of Web and App where I work on the development of a project using Next.js, React.js, React Native and Redux Toolkit which is fully responsive.",
         },
-        {
-            avatar: "/IREG-IT.jpeg",
-            name: "Ireg-IT",
-            title: "Frontend React Developer",
-            exp: 'Sep 2023 - Nov 2023',
-            desc: "I worked there as a frontend developer in IREG-IT where I spearheaded the development of a project from scratch using React.js and Custom CSS which is fully responsive.",
-        },
+        // {
+        //     avatar: "/IREG-IT.jpeg",
+        //     name: "Ireg-IT",
+        //     title: "Frontend React Developer",
+        //     exp: 'Sep 2023 - Nov 2023',
+        //     desc: "I worked there as a frontend developer in IREG-IT where I spearheaded the development of a project from scratch using React.js and Custom CSS which is fully responsive.",
+        // },
         {
             avatar: "/Teo_logo.png",
             name: "TEO Intl.",
             title: "Trainee Software Developer",
-            exp: 'Feb 2023 - July 2023',
+            // exp: 'Feb 2023 - July 2023',
+            exp: 'July 2022 - Dec 2022',
             desc: "As a Trainee Software Developer, I spearheaded the development of a project from scratch using Next.js and Material UI, demonstrating my ability create user interfaces.",
         },
     ]
@@ -35,7 +36,7 @@ const CompanyExperience = () => {
                     Developed and delivered cutting-edge solutions for these Companies.</p>
                 </div>
                 <div className="mt-12">
-                    <ul className="grid gap-8 sm:grid-cols-2 md:grid-cols-3">
+                    <ul className="grid gap-8 sm:grid-cols-2 md:grid-cols-2">
                         {
                             team.map((item, idx) => (
                                 <li key={idx}>

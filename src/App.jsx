@@ -1,4 +1,3 @@
-import React from 'react'
 import './App.css'
 import { Navbar } from './components/Navbar'
 import HeroSection from './components/HeroSection'
@@ -19,7 +18,7 @@ function App() {
       <ClientsExperience/>
       <Skills/>
       <Portfolio/>
-      {/* <MobilePortfolio/> */}
+      <MobilePortfolio/>
       <Footer/>
     </>
   )
