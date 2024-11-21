@@ -56,6 +56,11 @@ const Portfolio = () => {
         name: "Prioritizer",
         Link: "https://prioritizer-rho.vercel.app/"
       },
+      {
+        Image: "E-Comm.png",
+        name: "Afroasia E-commerce",
+        Link: "https://ecomm-afroasia.netlify.app/"
+      },
   ];
   return (
     <section id="Portfolio">

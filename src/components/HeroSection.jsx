@@ -18,7 +18,7 @@ function HeroSection() {
         </div>
         <div className="flex-1 text-center mt-7 lg:mt-0 lg:ml-3">
           <img
-            src="https://i.postimg.cc/HxHyt53c/undraw-heatmap-uyye.png"
+            src="banner.png"
             className="w-96 mx-auto sm:w-10/12  lg:w-full"
           />
         </div>
