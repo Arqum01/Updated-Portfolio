@@ -51,6 +51,11 @@ const Portfolio = () => {
         name: "Puzzle Bub 3D",
         Link: "https://puzzle-bub-client.netlify.app/"
       },
+      {
+        Image: "Prioritizer.png",
+        name: "Prioritizer",
+        Link: "https://prioritizer-rho.vercel.app/"
+      },
   ];
   return (
     <section id="Portfolio">
